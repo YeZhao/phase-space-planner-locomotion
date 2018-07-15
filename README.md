@@ -4,7 +4,7 @@ A hybrid phase space planner for rough terrain locomotion which includes the fol
 
 This is a MATLAB algorithm implementation of the demos in the following paper:
 
-Ye Zhao, Benito Fernandez and Luis Sentis. "[Robust Optimal Planning and Control of Non-Periodic Bipedal Walking with A Centroidal Momentum Model](https://dl.dropboxusercontent.com/u/54795992/IJRR-ROPSPlanning.pdf)," The International Journal of Robotics Research. Accepted. 2017.
+Ye Zhao, Benito Fernandez and Luis Sentis. "[Robust Optimal Planning and Control of Non-Periodic Bipedal Walking with A Centroidal Momentum Model](https://arxiv.org/pdf/1708.06345.pdf)," The International Journal of Robotics Research. 36(11): 1211-1243. September, 2017.
 
 A demo video is linked [here](https://youtu.be/eSqQS4z7EYA).
 
