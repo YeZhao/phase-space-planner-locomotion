@@ -57,7 +57,7 @@ p2_y_temp = 0;
 
 disp('How many stairs you would like to walk on?(Input Integer Number)');
 n = input('');
-Hstair_rand = randsrc(1,n,[-1,1]) .* (0.20 * ones(1,n) + 0.1 * randsrc(1,n,[-1,1]) .* rand(1,n));
+Hstair_rand = sign(randn(1,n)) .* (0.20 * ones(1,n) + 0.1 * sign(randn(1,n)) .* rand(1,n));
 
 for i =1:length(Hstair_rand) + 2
     disp('Step'), disp(i);
